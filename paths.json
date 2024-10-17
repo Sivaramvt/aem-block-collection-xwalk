@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/aem-block-collection/:/",
-    "/content/aem-block-collection/metadata:/metadata.json",
-    "/content/aem-block-collection/configuration:/.helix/config.json"
+    "/content/xwalk-sivt/:/",
+    "/content/xwalk-sivt/metadata:/metadata.json",
+    "/content/xwalk-sivt/configuration:/.helix/config.json"
   ]
 }
